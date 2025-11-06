@@ -14,14 +14,14 @@
 <div align="center">
 <table>
     <tr>
-        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
-        <td align="center" width="96"><img src="https://github.com/ElixirTechStack/animated-icons/blob/main/css3.gif?raw=true" width="60"/><br>CSS</td>
+        <td align="center" width="96"><img src="/Test/html.gif" width="80" alt="html"/><br>HTML</td>
+        <td align="center" width="96"><br>CSS</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /><br>JavaScript</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="56" height="56" /><br>Python</td> 
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" /><br>Java</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" /><br>C#</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" /><br>C++</td>
-        <td align="center" width="96"><img src="/Test/figma.gif" width="80" alt="Figma"/><br>Figma</td>
+        <td align="center" width="96"><img src="/Test/figma.gif" width="60" alt="Figma"/><br>Figma</td>
     </tr>
     <tr>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" height="52" /><br>MySQL</td>
