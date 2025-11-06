@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Sakti Arif - Banner"/>
-</p>
+<p align="center"><img src="assets/banner.svg" width="100%" alt="Sakti Arif - Banner"/></p>
 
 
 
