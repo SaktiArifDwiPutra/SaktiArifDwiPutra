@@ -61,8 +61,8 @@ To become a **versatile full-stack developer** who creates digital experiences t
 ### 📫 Reach Me  
 <p align="center">
   <a href="mailto:saktiarif830@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="[https://linkedin.com/in/saktiarif](https://www.instagram.com/saktehhhhhhh?igsh=YzV3NHJzc2d1OWFh)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sakti%20Arif-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/saktiarif" target="_blank"><img src="https://img.shields.io/badge/GitHub-Sakti%20Arif-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.instagram.com/saktehhhhhhh?igsh=YzV3NHJzc2d1OWFh" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/saktiarif" target="_blank"><img src="https://img.shields.io/badge/GitHub-SaktiArifDwiPutra%20Arif-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
