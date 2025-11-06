@@ -21,6 +21,8 @@
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" /><br>Java</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" /><br>C#</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" /><br>C++</td>
+        <td align="center" width="96"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ef2e9f8b-75c6-41a5-9ea3-46c560fcfc3b" />
+<br>Figma</td>
     </tr>
     <tr>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" height="52" /><br>MySQL</td>
@@ -30,7 +32,6 @@
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="52" height="52" /><br>GitHub</td>
-        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
     </tr>
 </table>
 </div>
