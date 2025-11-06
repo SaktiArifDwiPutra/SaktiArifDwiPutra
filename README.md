@@ -19,7 +19,7 @@
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /><br>JavaScript</td>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br>Python</td>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java</td>
-        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NODE" /><br>Node.js</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NODE" /><br>Node.js</td>                                     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="NODE" /><br>Laravel</td>
     </tr>
     <tr>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap</td>
