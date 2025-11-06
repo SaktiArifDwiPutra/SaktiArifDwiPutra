@@ -28,7 +28,7 @@
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
-        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="NODE" /><br>Canva</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=adobe" width="48" height="48" alt="NODE" /><br>Canva</td>
     </tr>
 </table>
 </div>
