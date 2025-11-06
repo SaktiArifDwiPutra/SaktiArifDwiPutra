@@ -2,20 +2,19 @@
 <h3 align="center">A Passionate Backend & Full-Stack Developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/src/images/animatelines.svg" width="100%" alt="animated divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated divider"/>
 </p>
 
 ---
 
 ### 💡 About Me  
-🌐 I’m a **Backend Developer** who loves crafting efficient, scalable, and clean systems — but I also enjoy exploring **Frontend** and **Game Development** to keep my creativity flowing.  
-🎯 My main focus is building **web applications** and **interactive game projects** that blend logic, art, and storytelling.  
-💬 I believe great code is not just about functionality, but also about experience and meaning.  
+🌐 I’m a **Backend Developer** who loves crafting efficient, scalable, and clean systems — but I also explore **Frontend** and **Game Development** to keep my creativity alive.  
+🎯 My focus is on building **web applications** and **interactive games** that combine logic, art, and emotion.  
+💬 I believe great code isn’t just about performance — it’s about purpose and experience.  
 
 ---
 
-### 🛠️ Tech Stack
-
+### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,unity,cs,mysql,firebase,git,figma,vscode" />
 </p>
@@ -23,23 +22,23 @@
 ---
 
 ### 🚀 Current Focus  
-- ⚙️ Strengthening my **backend architecture** and API design  
-- 🕹️ Developing **visual novel & RPG-style games** using Unity and JavaScript  
-- 🌍 Building **responsive and adaptive websites** for multiple devices  
-- 💡 Continuously learning and improving in the field of **software engineering**
+- ⚙️ Improving backend architecture and API optimization  
+- 🕹️ Developing **visual novel & RPG-style games** using Unity + JS  
+- 🌍 Building **responsive web apps** for any device  
+- 💡 Constantly learning new frameworks & best practices  
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saktiarif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saktiarif&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saktiarif&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saktiarif&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
 ### 🌈 My Vision  
-To become a **versatile full-stack developer** who creates digital experiences that inspire and connect — from the backend logic to the user’s screen.  
+To become a **versatile full-stack developer** who creates digital experiences that inspire and connect — from logic to emotion.  
 
 ---
 
@@ -53,7 +52,7 @@ To become a **versatile full-stack developer** who creates digital experiences t
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo-name.svg" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+Developer;Full+Stack+Enthusiast;Game+Dev+Explorer;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -63,5 +62,5 @@ To become a **versatile full-stack developer** who creates digital experiences t
 ---
 
 <p align="center">
-  <img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/src/images/animatelines.svg" width="100%" alt="animated divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated divider"/>
 </p>
