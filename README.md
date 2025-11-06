@@ -11,9 +11,30 @@
 ---
 
 ### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,unity,cs,mysql,firebase,git,figma,vscode" />
-</p>
+<div align="center">
+<table>
+    <tr>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
+        <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /><br>JavaScript</td>
+        <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /><br>React.js</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NODE" /><br>Node.js</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br>Python</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java</td>
+    </tr>
+    <tr>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" /><br>Kali</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+    </tr>
+</table>
+</div>
 
 ---
 
