@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Professional animated banner for README
+     Save as: assets/banner.svg
+     Usage in README: <p align="center"><img src="assets/banner.svg" width="100%" alt="Sakti Arif - Banner"/></p>
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 300"
+     preserveAspectRatio="xMidYMid slice"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">Sakti Arif - Backend & Full-Stack Developer</title>
+  <desc id="desc">Animated banner with gradient, floating shapes, and text reveal effect.</desc>
+
+  <defs>
+    <!-- soft drop shadow -->
+    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="blur"/>
+      <feOffset in="blur" dx="0" dy="6" result="offsetBlur"/>
+      <feMerge>
+        <feMergeNode in="offsetBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- gradient background -->
+    <linearGradient id="bgGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#071026"/>
+    </linearGradient>
+
+    <!-- accent gradient for blobs -->
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#6EE7B7"/>
+      <stop offset="50%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <!-- subtle noise texture (light) - as tiny dots pattern -->
+    <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="transparent"/>
+      <circle cx="1" cy="1" r="0.5" fill="rgba(255,255,255,0.02)"/>
+    </pattern>
+
+    <!-- mask for text reveal -->
+    <mask id="revealMask">
+      <!-- full white area (visible) -->
+      <rect x="0" y="0" width="1200" height="300" fill="white"/>
+      <!-- the black rectangle that will animate from left to right to reveal text (black = masked out) -->
+      <rect id="maskRect" x="0" y="0" width="1200" height="300" fill="black">
+        <animate attributeName="width"
+                 from="1200" to="0"
+                 dur="1.8s"
+                 begin="0.5s"
+                 fill="freeze"
+                 calcMode="spline"
+                 keySplines="0.25 0.8 0.25 1"/>
+      </rect>
+    </mask>
+
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="300" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="1200" height="300" fill="url(#dots)" opacity="0.25"/>
+
+  <!-- floating accent blobs (professional, subtle) -->
+  <g transform="translate(0,0)" opacity="0.95" filter="url(#softShadow)">
+    <!-- blob 1 -->
+    <path fill="url(#accent)" opacity="0.10" d="M200,50 C260,0 380,0 460,50 C540,100 520,180 460,220 C400,260 240,260 180,220 C120,180 140,100 200,50Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -10 6; 0 0" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.08;0.12;0.08" dur="8s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- blob 2 -->
+    <path fill="url(#accent)" opacity="0.07" d="M900,30 C980,-10 1110,10 1140,90 C1170,170 1060,230 980,240 C900,250 820,220 800,170 C780,120 820,60 900,30Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 8 10; 0 0" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.06;0.10;0.06" dur="10s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- blob 3 (small) -->
+    <circle cx="980" cy="200" r="36" fill="#ffffff" opacity="0.03">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -6 -4; 0 0" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- subtle glossy highlight line -->
+  <g opacity="0.06">
+    <path d="M0,90 Q300,40 600,90 T1200,90" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="stroke-dashoffset" from="0" to="-600" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.07;0.03;0.07" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Main content group (masked for reveal) -->
+  <g mask="url(#revealMask)">
+    <!-- left column: small bio card -->
+    <g transform="translate(60,45)">
+      <rect x="0" y="0" width="360" height="210" rx="12" fill="rgba(255,255,255,0.03)" />
+      <text x="22" y="42" font-family="Inter, Arial, sans-serif" font-size="20" fill="#E6EEF8" font-weight="600">👋 Hello, I'm</text>
+      <text x="22" y="80" font-family="Inter, Arial, sans-serif" font-size="34" fill="#FFFFFF" font-weight="700">Sakti Arif</text>
+      <text x="22" y="115" font-family="Inter, Arial, sans-serif" font-size="14" fill="#cbd5e1" font-weight="500">Backend & Full-Stack Developer</text>
+
+      <!-- small badges -->
+      <g transform="translate(22,140)">
+        <rect x="0" y="0" rx="6" height="26" width="120" fill="rgba(255,255,255,0.04)"/>
+        <text x="12" y="18" font-family="Inter, Arial, sans-serif" font-size="12" fill="#A7B3C8">Node.js • Express</text>
+        <rect x="130" y="0" rx="6" height="26" width="120" fill="rgba(255,255,255,0.04)"/>
+        <text x="142" y="18" font-family="Inter, Arial, sans-serif" font-size="12" fill="#A7B3C8">MySQL • MongoDB</text>
+      </g>
+    </g>
+
+    <!-- right column: big slogan / typing effect -->
+    <g transform="translate(460,70)">
+      <!-- background subtle panel -->
+      <rect x="0" y="0" width="640" height="160" rx="10" fill="rgba(255,255,255,0.02)"/>
+      <!-- large headline (static) -->
+      <text x="18" y="48" font-family="Inter, Arial, sans-serif" font-size="28" fill="#E6EEF8" font-weight="600">Building robust backends —</text>
+
+      <!-- typed text (revealed via maskRect animation above) -->
+      <text id="typed" x="18" y="96" font-family="Fira Code, monospace" font-size="22" fill="#A7C3F2" font-weight="600">
+        Scalable APIs · Clean Architecture · Reliable Systems
+      </text>
+
+      <!-- blinking cursor (positioned at end of typed text) -->
+      <rect id="cursor" x="630" y="76" width="6" height="26" rx="2" fill="#A7C3F2" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="1.1s" repeatCount="indefinite" begin="1.5s"/>
+      </rect>
+
+      <!-- small descriptive line -->
+      <text x="18" y="130" font-family="Inter, Arial, sans-serif" font-size="13" fill="#93A3BF">
+        I design & implement server-side systems with reliability and performance in mind.
+      </text>
+    </g>
+  </g>
+
+  <!-- subtle particle dots floating across (decorative, very low opacity) -->
+  <g fill="#FFFFFF" opacity="0.02">
+    <circle cx="320" cy="40" r="2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -6 4; 0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="510" cy="220" r="2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 8 -6; 0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="740" cy="60" r="2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -5 3; 0 0" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+</svg>
