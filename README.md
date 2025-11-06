@@ -48,7 +48,6 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaktiArifDwiPutra&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaktiArifDwiPutra&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
@@ -61,7 +60,7 @@ To become a **versatile full-stack developer** who creates digital experiences t
 ### 📫 Reach Me  
 <p align="center">
   <a href="mailto:saktiarif830@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.instagram.com/saktehhhhhhh?igsh=YzV3NHJzc2d1OWFh" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.instagram.com/saktehhhhhhh?igsh=YzV3NHJzc2d1OWFh" target="_blank"><img src="https://img.shields.io/badge/Intagram-Contact%20Me-blue?style=for-the-badge&logo=instagram" /></a>
   <a href="https://github.com/saktiarif" target="_blank"><img src="https://img.shields.io/badge/GitHub-SaktiArifDwiPutra%20Arif-black?style=for-the-badge&logo=github" /></a>
 </p>
 
