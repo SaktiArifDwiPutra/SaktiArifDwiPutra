@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=👋%20Hello,%20I'm%20Sakti%20Arif&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header banner" />
+  <img src="assets/banner.svg" width="100%" alt="Sakti Arif - Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+Developer;Full+Stack+Enthusiast;Game+Dev+Explorer;Always+Learning+New+Things" alt="Typing Animation" />
-</p>
 
 
 ---
