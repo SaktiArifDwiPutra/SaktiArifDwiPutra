@@ -21,7 +21,7 @@
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" /><br>Java</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" /><br>C#</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" /><br>C++</td>
-        <td align="center" width="96"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ef2e9f8b-75c6-41a5-9ea3-46c560fcfc3b" />
+        <td align="center" width="96"><a target="_blank" href="https://icons8.com/icon/8gfeOoqrHqJU/figma">Figma</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <br>Figma</td>
     </tr>
     <tr>
