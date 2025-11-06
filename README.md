@@ -1,12 +1,20 @@
-<!-- Banner Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:F7B733&height=200&section=header&text=👋%20Hello%2C%20I'm%20Sakti%20Arif&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Sakti Arif Banner"/>
-</p>
+<img src="Test/Sample.svg" width=100%>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=F7B733&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;Back-End+Specialist+⚙️;Always+Learning+and+Building+🚀" alt="Typing SVG" />
-</p>
+<br>
+<br>
+<details>
+    <summary>SVG Format</summary>
+    <img src="profileBanner.svg" width=60%>
+    <hr>
+    <br>
+    <p>Slide 1</p>
+    <img src="Assets/s1.png" width=40%>
+    <p>Slide 2</p>
+    <img src="Assets/s2.png" width=40%>
+    <p>Slide 3</p>
+    <img src="Assets/s3.png" width=40%>
+</details>
+<br>
 
 ---
 
