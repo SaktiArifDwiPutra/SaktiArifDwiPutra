@@ -31,7 +31,7 @@
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="52" height="52" /><br>GitHub</td>
-        <td align="center" width="96"><img src="./icons/GitLab-Dark.svg" width="48"> <br>GitLab</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="CSS" /><br>GitLab</td>
     </tr>
 </table>
 </div>
