@@ -15,6 +15,7 @@
     <tr>
         <td align="center" width="96"><img src="/Test/html2.gif" width="60" alt="html"/><br>HTML</td>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
+        <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="CSS" /><br>PHP</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /><br>JavaScript</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="56" height="56" /><br>Python</td> 
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" /><br>Java</td>
@@ -30,6 +31,7 @@
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
         <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
         <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="52" height="52" /><br>GitHub</td>
+        <td align="center" width="96"><img src="https://techstack-generator.vercel.app/gitlab-icon.svg" alt="icon" width="52" height="52" /><br>GitLab</td>
     </tr>
 </table>
 </div>
