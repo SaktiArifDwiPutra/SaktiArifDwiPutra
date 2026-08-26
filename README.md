@@ -43,16 +43,8 @@ Software and Game Development (**PPLG / RPL**)
             TypeScript
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="56" height="56" alt="Python"/><br>
-            Python
-        </td>
-        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="52" height="52" alt="C#"/><br>
             C#
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="52" height="52" alt="C++"/><br>
-            C++
         </td>
         <td align="center" width="96">
             <img src="/Test/figma2.gif" width="56" alt="Figma"/><br>
@@ -81,10 +73,6 @@ Software and Game Development (**PPLG / RPL**)
             MySQL
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/><br>
-            SQLite
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><br>
             Unity
         </td>
@@ -101,14 +89,6 @@ Software and Game Development (**PPLG / RPL**)
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/github-icon.svg" width="52" height="52" alt="GitHub"/><br>
             GitHub
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab"/><br>
-            GitLab
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/><br>
-            Bash
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br>
