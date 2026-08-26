@@ -50,8 +50,6 @@ Software and Game Development (**PPLG / RPL**)
             <img src="/Test/figma2.gif" width="56" alt="Figma"/><br>
             Figma
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br>
             Next.js
@@ -60,6 +58,8 @@ Software and Game Development (**PPLG / RPL**)
             <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br>
             Node.js
         </td>
+    </tr>   
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/><br>
             PHP
@@ -80,8 +80,6 @@ Software and Game Development (**PPLG / RPL**)
             <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot"/><br>
             Godot
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>
             Git
