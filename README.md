@@ -127,53 +127,23 @@ Worked on various school and personal projects involving web development, databa
 
 ## 🚀 Featured Projects
 
-### 🌱 GrowList — Task Management Application
+### 🏫 OSIP4 — School Organization Website
 
-A productivity and task management application built to help users organize and manage their activities.
+A modern web application developed for a website development competition with the theme of school organizations. Built as a digital platform to support and represent OSIP4 (Organisasi Siswa Intra Sekolah SMKN 4 Padalarang).
 
-**Tech:** Laravel, PHP, MySQL
+**Tech:** React, Vite
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/SaktiArifDwiPutra/OSIP4/tree/main)
 
 ---
 
-### 🗳️ Pilketos — Digital Student Election System
+### 🗳️ Website Pilketos — Digital Student Election System
 
 A web-based application designed to support the student council election process digitally.
 
 **Focus:** Web Development, Database, User Interaction
 
-🔗 [View Repository](#)
-
----
-
-### 🛒 Bazar & Pre-Order System
-
-A collection of web applications created to support school bazaar activities, including product ordering, payment, QR integration, and location features.
-
-**Focus:** Full-Stack Development & Database
-
-🔗 [View Repository](#)
-
----
-
-### ♟️ Ultimate Chess
-
-A chess-related game project developed as part of my exploration into game programming and interactive systems.
-
-**Focus:** Game Logic & Interactive Programming
-
-🔗 [View Repository](#)
-
----
-
-### 🐍 Snake Game
-
-A classic Snake game created as part of my game development learning journey.
-
-**Tech:** JavaScript / Phaser
-
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/SaktiArifDwiPutra/Website-Pilketos)
 
 ---
 
@@ -194,7 +164,6 @@ An ongoing life simulation RPG project inspired by everyday life in Indonesia. T
 - Oracle Academy — Database Learning Program
 - AWS Academy / AWS Foundation AI Training
 - Dicoding Development / Learning Activities
-- Other technology and software development training certificates
 
 > 📌 More certificates and achievements will be added as my learning journey continues.
 
