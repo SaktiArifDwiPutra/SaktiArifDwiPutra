@@ -59,7 +59,6 @@ Software and Game Development (**PPLG / RPL**)
             Figma
         </td>
     </tr>
-
     <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br>
@@ -94,7 +93,6 @@ Software and Game Development (**PPLG / RPL**)
             Godot
         </td>
     </tr>
-
     <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>
