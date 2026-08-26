@@ -1,5 +1,3 @@
-
-```md
 <img src="Test/Sample.svg" width="100%">
 
 ---
@@ -301,4 +299,3 @@ It's about turning an idea into something people can actually experience.
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated divider"/>
 </p>
-```
