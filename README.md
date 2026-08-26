@@ -133,17 +133,33 @@ A modern web application developed for a website development competition with th
 
 **Tech:** React, Vite
 
+**Focus:** Frontend Development, Responsive Design, User Interface
+
 🔗 [View Repository](https://github.com/SaktiArifDwiPutra/OSIP4/tree/main)
 
 ---
 
-### 🗳️ Website Pilketos — Digital Student Election System
+### 🗳️ Website-Pilketos — Digital Student Election System
 
 A web-based application designed to support the student council election process digitally.
+
+**Tech:** PHP, JS, MySql
 
 **Focus:** Web Development, Database, User Interaction
 
 🔗 [View Repository](https://github.com/SaktiArifDwiPutra/Website-Pilketos)
+
+---
+
+### 🌟 DausAnakSoleh — Educational Islamic Game
+
+Educational web-based game designed to make learning how to pray (solat) and recite the Quran (mengaji) highly entertaining and engaging for players.
+
+**Tech:** Phaser.js, JavaScript, HTML5, CSS3
+
+**Focus:** Game Development, Edutainment, Interactive Learning
+
+🔗 [View Repository](https://github.com/SaktiArifDwiPutra/DausAnakSoleh)
 
 ---
 
