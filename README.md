@@ -1,6 +1,6 @@
 <head><meta name="google-site-verification" content="-0lpr_qs-EwcVERjlEmBvdT9wwuMewPYORlsos95kL0" /></head>
 
-<img src="Test/Sample.svg" width="100%">
+<img src="header.svg" width="100%">
 
 ---
 
