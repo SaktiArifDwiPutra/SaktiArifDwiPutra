@@ -197,7 +197,7 @@
       <!-- Little floating TS symbol (positioned above the bracket so it doesn't overlap) -->
       <g transform="translate(-10, -50)">
         <rect x="0" y="0" width="32" height="32" rx="7" fill="#09090e" stroke="#00f2fe" stroke-width="2" filter="url(#glowCyan)" />
-        <text x="16" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#00f2fe" text-anchor="middle">TS</text>
+        <text x="16" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#00f2fe" text-anchor="middle">^_^</text>
       </g>
     </g>
   </g>
