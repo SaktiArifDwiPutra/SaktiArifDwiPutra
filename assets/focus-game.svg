@@ -1,30 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 400" width="440" height="400" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 400" width="460" height="400" role="img" aria-labelledby="t d">
   <title id="t">Game Development</title>
-  <desc id="d">Gameplay programming, game systems, interactive mechanics, game logic, UI and UX for games, and creative game experiences.</desc>
+  <desc id="d">Gameplay Programming, Game Systems, Interactive Mechanics, Game Logic, Game UI/UX, and Creative Game Experiences.</desc>
   <defs>
     <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0a0510"/>
-      <stop offset="1" stop-color="#020810"/>
+      <stop offset="1" stop-color="#050505"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff007a"/>
-      <stop offset="1" stop-color="#7928ca"/>
+      <stop offset="0" stop-color="#7928ca"/>
+      <stop offset="1" stop-color="#ff007a"/>
     </linearGradient>
     <style>
-      .glow { animation: glow 5s ease-in-out -2.5s infinite; }
-      .row { animation: rise 0.7s ease-out both; }
-      .r2 { animation-delay: 0.08s; } .r3 { animation-delay: 0.16s; } .r4 { animation-delay: 0.24s; } .r5 { animation-delay: 0.32s; } .r6 { animation-delay: 0.4s; }
-      @keyframes glow { 0%,100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 0.9; } }
-      @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+      .glow { animation: glowPulse 5s ease-in-out -2.5s infinite; }
+      @keyframes glowPulse { 0%,100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 0.85; } }
       @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
     </style>
   </defs>
-  <rect x="2" y="2" width="436" height="396" rx="20" fill="url(#card)"/>
-  <rect class="glow" x="2" y="2" width="436" height="396" rx="20" fill="none" stroke="#ff007a" stroke-width="1.5"/>
-  <rect x="2" y="2" width="436" height="6" rx="3" fill="url(#accent)"/>
+  <rect x="2" y="2" width="456" height="396" rx="20" fill="url(#card)"/>
+  <rect class="glow" x="2" y="2" width="456" height="396" rx="20" fill="none" stroke="#ff007a" stroke-width="1.5"/>
+  <rect x="2" y="2" width="456" height="5" rx="2.5" fill="url(#accent)"/>
 
   <!-- Icon: game controller -->
-  <g transform="translate(28 34)">
+  <g transform="translate(28 32)">
     <rect width="52" height="52" rx="14" fill="#ff007a" fill-opacity="0.12" stroke="#ff007a" stroke-opacity="0.65"/>
     <rect x="9" y="17" width="34" height="20" rx="10" fill="none" stroke="#ff007a" stroke-width="1.8"/>
     <path d="M18 23 v8 M14 27 h8" stroke="#ff8cc0" stroke-width="1.8" stroke-linecap="round"/>
@@ -32,17 +29,16 @@
     <circle cx="37" cy="29" r="2" fill="#00f2fe"/>
   </g>
   <g font-family="'Segoe UI', Inter, system-ui, -apple-system, Arial, sans-serif">
-    <text x="96" y="58" font-size="18" font-weight="700" letter-spacing="1.5" fill="#FFFFFF">GAME DEVELOPMENT</text>
-    <text x="96" y="80" font-size="13" fill="#8b8b99">Systems, mechanics and play experiences</text>
+    <text x="96" y="56" font-size="18" font-weight="700" letter-spacing="1.4" fill="#f4f4f5">GAME DEVELOPMENT</text>
+    <text x="96" y="78" font-size="13" fill="#a1a1aa">Systems, mechanics, and play experiences</text>
 
-    <g font-size="16" fill="#ffe0ee">
-      <g class="row"><rect x="24" y="112" width="392" height="38" rx="10" fill="#ff007a" fill-opacity="0.08"/><path d="M44 131 l5 -5 l5 5 l-5 5 z" fill="#ff007a"/><text x="68" y="137">Gameplay Programming</text></g>
-      <g class="row r2"><rect x="24" y="156" width="392" height="38" rx="10" fill="#ff007a" fill-opacity="0.08"/><path d="M44 175 l5 -5 l5 5 l-5 5 z" fill="#ff007a"/><text x="68" y="181">Game Systems</text></g>
-      <g class="row r3"><rect x="24" y="200" width="392" height="38" rx="10" fill="#ff007a" fill-opacity="0.08"/><path d="M44 219 l5 -5 l5 5 l-5 5 z" fill="#7928ca"/><text x="68" y="225">Interactive Mechanics</text></g>
-      <g class="row r4"><rect x="24" y="244" width="392" height="38" rx="10" fill="#ff007a" fill-opacity="0.08"/><path d="M44 263 l5 -5 l5 5 l-5 5 z" fill="#7928ca"/><text x="68" y="269">Game Logic</text></g>
-      <g class="row r5"><rect x="24" y="288" width="392" height="38" rx="10" fill="#ff007a" fill-opacity="0.08"/><path d="M44 307 l5 -5 l5 5 l-5 5 z" fill="#ff007a"/><text x="68" y="313">UI/UX for Games</text></g>
-      <g class="row r6"><rect x="24" y="332" width="392" height="38" rx="10" fill="#ff007a" fill-opacity="0.08"/><path d="M44 351 l5 -5 l5 5 l-5 5 z" fill="#ff007a"/><text x="68" y="357">Creative Game Experiences</text></g>
+    <g font-size="15.5" fill="#d4d4d8">
+      <g><rect x="24" y="110" width="412" height="38" rx="10" fill="#121218" fill-opacity="0.72" stroke="#ff007a" stroke-opacity="0.2"/><path d="M44 129 l5 -5 l5 5 l-5 5 z" fill="#ff007a"/><text x="68" y="135">Gameplay Programming</text></g>
+      <g><rect x="24" y="154" width="412" height="38" rx="10" fill="#121218" fill-opacity="0.72" stroke="#ff007a" stroke-opacity="0.2"/><path d="M44 173 l5 -5 l5 5 l-5 5 z" fill="#ff007a"/><text x="68" y="179">Game Systems</text></g>
+      <g><rect x="24" y="198" width="412" height="38" rx="10" fill="#121218" fill-opacity="0.72" stroke="#7928ca" stroke-opacity="0.22"/><path d="M44 217 l5 -5 l5 5 l-5 5 z" fill="#7928ca"/><text x="68" y="223">Interactive Mechanics</text></g>
+      <g><rect x="24" y="242" width="412" height="38" rx="10" fill="#121218" fill-opacity="0.72" stroke="#7928ca" stroke-opacity="0.22"/><path d="M44 261 l5 -5 l5 5 l-5 5 z" fill="#7928ca"/><text x="68" y="267">Game Logic</text></g>
+      <g><rect x="24" y="286" width="412" height="38" rx="10" fill="#121218" fill-opacity="0.72" stroke="#ff007a" stroke-opacity="0.2"/><path d="M44 305 l5 -5 l5 5 l-5 5 z" fill="#ff007a"/><text x="68" y="311">Game UI/UX</text></g>
+      <g><rect x="24" y="330" width="412" height="38" rx="10" fill="#121218" fill-opacity="0.72" stroke="#ff007a" stroke-opacity="0.2"/><path d="M44 349 l5 -5 l5 5 l-5 5 z" fill="#ff007a"/><text x="68" y="355">Creative Game Experiences</text></g>
     </g>
   </g>
 </svg>
-

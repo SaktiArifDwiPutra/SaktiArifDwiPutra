@@ -1,21 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-labelledby="t">
-  <title id="t">Sakti Arif D.S. footer</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-labelledby="t d">
+  <title id="t">Sakti Arif D.S. Footer</title>
+  <desc id="d">Futuristic footer banner with Sakti Arif D.S. and the philosophy: From systems and logic to worlds and experiences.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050505"/>
       <stop offset="0.55" stop-color="#09090e"/>
       <stop offset="1" stop-color="#0a0510"/>
     </linearGradient>
+    <linearGradient id="topLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f2fe"/>
+      <stop offset="0.5" stop-color="#4facfe"/>
+      <stop offset="1" stop-color="#ff007a"/>
+    </linearGradient>
     <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00f2fe" stop-opacity="0.35"/>
-      <stop offset="0.5" stop-color="#4facfe" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#ff007a" stop-opacity="0.35"/>
+      <stop offset="0" stop-color="#00f2fe" stop-opacity="0.30"/>
+      <stop offset="0.5" stop-color="#4facfe" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#ff007a" stop-opacity="0.30"/>
     </linearGradient>
     <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff007a" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#00f2fe" stop-opacity="0.28"/>
+      <stop offset="0" stop-color="#7928ca" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#00f2fe" stop-opacity="0.24"/>
     </linearGradient>
-    <clipPath id="clip"><rect width="1200" height="160" rx="16"/></clipPath>
+    <clipPath id="clip"><rect width="1200" height="170" rx="16"/></clipPath>
     <style>
       .a { animation: slide 16s linear infinite; }
       .b { animation: slide 24s linear infinite reverse; }
@@ -24,13 +30,14 @@
     </style>
   </defs>
   <g clip-path="url(#clip)">
-    <rect width="1200" height="160" fill="url(#bg)"/>
-    <path class="b" fill="url(#w2)" d="M0 96 Q150 64 300 96 T600 96 T900 96 T1200 96 T1500 96 T1800 96 T2100 96 T2400 96 V160 H0 Z"/>
-    <path class="a" fill="url(#w1)" d="M0 112 Q150 82 300 112 T600 112 T900 112 T1200 112 T1500 112 T1800 112 T2100 112 T2400 112 V160 H0 Z"/>
-    <rect x="0" y="0" width="1200" height="3" fill="#00f2fe" fill-opacity="0.5"/>
+    <rect width="1200" height="170" fill="url(#bg)"/>
+    <rect x="0" y="0" width="1200" height="3" fill="url(#topLine)" fill-opacity="0.85"/>
+    <path class="b" fill="url(#w2)" d="M0 124 Q150 100 300 124 T600 124 T900 124 T1200 124 T1500 124 T1800 124 T2100 124 T2400 124 V170 H0 Z"/>
+    <path class="a" fill="url(#w1)" d="M0 136 Q150 114 300 136 T600 136 T900 136 T1200 136 T1500 136 T1800 136 T2100 136 T2400 136 V170 H0 Z"/>
     <g font-family="'Segoe UI', Inter, system-ui, -apple-system, Arial, sans-serif" text-anchor="middle">
-      <text x="600" y="50" font-size="20" font-weight="700" letter-spacing="3" fill="#FFFFFF">SAKTI ARIF D.S.</text>
-      <text x="600" y="72" font-size="13" letter-spacing="2" fill="#a1a1aa">FULL-STACK DEVELOPER  ·  GAME DEVELOPER</text>
+      <text x="600" y="44" font-size="19" font-weight="800" letter-spacing="3.5" fill="#f4f4f5">SAKTI ARIF D.S.</text>
+      <text x="600" y="68" font-size="12.5" font-weight="600" letter-spacing="2.2" fill="#00f2fe">FULL-STACK DEVELOPER  ·  GAME DEVELOPER</text>
+      <text x="600" y="94" font-size="14" font-style="italic" fill="#d4d4d8">"From systems and logic to worlds and experiences."</text>
     </g>
   </g>
 </svg>

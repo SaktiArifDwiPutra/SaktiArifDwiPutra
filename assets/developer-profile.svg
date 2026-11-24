@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 350" width="1000" height="350" role="img" aria-labelledby="t d">
+  <title id="t">Developer Identity Panel — Sakti Arif D.S.</title>
+  <desc id="d">Futuristic developer workspace card displaying Sakti Arif D.S.'s identity object, dual roles, currently exploring stack, and philosophy.</desc>
+  <defs>
+    <linearGradient id="topBarGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f2fe"/>
+      <stop offset="0.55" stop-color="#4facfe"/>
+      <stop offset="1" stop-color="#ff007a"/>
+    </linearGradient>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09090e"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="998" height="348" rx="18"/>
+    </clipPath>
+    <style>
+      .statusDot { animation: blinkDot 2.8s ease-in-out infinite; }
+      @keyframes blinkDot { 0%,100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Outer Panel -->
+    <rect x="1" y="1" width="998" height="348" rx="18" fill="url(#panelBg)"/>
+    <!-- Top Header Bar -->
+    <rect x="1" y="1" width="998" height="44" fill="#121218"/>
+    <rect x="1" y="1" width="998" height="3" fill="url(#topBarGrad)"/>
+    <line x1="1" y1="45" x2="999" y2="45" stroke="#27272a" stroke-width="1"/>
+
+    <!-- Window Status Dots -->
+    <circle cx="28" cy="24" r="5" fill="#27272a" stroke="#27272a" stroke-width="1"/>
+    <circle cx="46" cy="24" r="5" fill="#27272a" stroke="#27272a" stroke-width="1"/>
+    <circle cx="64" cy="24" r="5" fill="#27272a" stroke="#27272a" stroke-width="1"/>
+
+    <!-- Active Tab Pill -->
+    <rect x="88" y="10" width="186" height="27" rx="8" fill="#121218" stroke="#00f2fe" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="104" cy="23.5" r="3.5" fill="#00f2fe"/>
+    <text x="116" y="28" font-family="'Consolas', 'JetBrains Mono', 'Fira Code', monospace" font-size="12.5" font-weight="600" fill="#f4f4f5">developer.profile.ts</text>
+
+    <!-- Right-aligned Education Metadata Pill -->
+    <rect x="788" y="11" width="190" height="25" rx="12" fill="#121218" stroke="#7928ca" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="883" y="27.5" text-anchor="middle" font-family="'Segoe UI', Inter, system-ui, sans-serif" font-size="11.5" font-weight="600" letter-spacing="0.6" fill="#d4d4d8">PPLG / RPL  ·  2024–2027</text>
+
+    <!-- Vertical Divider -->
+    <line x1="610" y1="45" x2="610" y2="349" stroke="#27272a" stroke-width="1"/>
+
+    <!-- LEFT PANE: Syntax-Highlighted Identity -->
+    <g font-family="'Consolas', 'JetBrains Mono', 'Fira Code', monospace" font-size="14">
+      <!-- Line Numbers -->
+      <g fill="#71717a" text-anchor="end">
+        <text x="42" y="84">01</text>
+        <text x="42" y="110">02</text>
+        <text x="42" y="136">03</text>
+        <text x="42" y="162">04</text>
+        <text x="42" y="188">05</text>
+        <text x="42" y="214">06</text>
+        <text x="42" y="240">07</text>
+        <text x="42" y="266">08</text>
+        <text x="42" y="292">09</text>
+        <text x="42" y="318">10</text>
+      </g>
+
+      <!-- Code Lines -->
+      <text x="58" y="84"><tspan fill="#ff007a" font-weight="600">const</tspan><tspan fill="#f4f4f5"> sakti </tspan><tspan fill="#00f2fe">=</tspan><tspan fill="#d4d4d8"> {</tspan></text>
+
+      <text x="78" y="110"><tspan fill="#00f2fe">name</tspan><tspan fill="#d4d4d8">: </tspan><tspan fill="#9fefff">"Sakti Arif D.S."</tspan><tspan fill="#d4d4d8">,</tspan></text>
+
+      <text x="78" y="136"><tspan fill="#00f2fe">location</tspan><tspan fill="#d4d4d8">: </tspan><tspan fill="#9fefff">"West Java, Indonesia"</tspan><tspan fill="#d4d4d8">,</tspan></text>
+
+      <text x="78" y="162"><tspan fill="#00f2fe">education</tspan><tspan fill="#d4d4d8">: </tspan><tspan fill="#9fefff">"SMK Negeri 4 Padalarang"</tspan><tspan fill="#d4d4d8">,</tspan></text>
+
+      <text x="78" y="188"><tspan fill="#00f2fe">major</tspan><tspan fill="#d4d4d8">: </tspan><tspan fill="#9fefff">"Software &amp; Game Development"</tspan><tspan fill="#d4d4d8">,</tspan></text>
+
+      <text x="78" y="214"><tspan fill="#00f2fe">period</tspan><tspan fill="#d4d4d8">: </tspan><tspan fill="#9fefff">"2024–2027"</tspan><tspan fill="#d4d4d8">,</tspan></text>
+
+      <text x="78" y="240"><tspan fill="#00f2fe">roles</tspan><tspan fill="#d4d4d8">: [</tspan><tspan fill="#9fefff">"Full-Stack"</tspan><tspan fill="#d4d4d8">, </tspan><tspan fill="#9fefff">"Game Dev"</tspan><tspan fill="#d4d4d8">],</tspan></text>
+
+      <text x="78" y="266"><tspan fill="#00f2fe">philosophy</tspan><tspan fill="#d4d4d8">: </tspan><tspan fill="#9fefff">"From systems and logic</tspan></text>
+      <text x="184" y="292"><tspan fill="#9fefff">to worlds and experiences."</tspan></text>
+
+      <text x="58" y="318" fill="#d4d4d8">};</text>
+    </g>
+
+    <!-- RIGHT PANE: Structured Identity Overview -->
+    <g font-family="'Segoe UI', Inter, system-ui, -apple-system, Arial, sans-serif">
+      <!-- Dual Discipline -->
+      <text x="635" y="76" font-size="11" font-weight="700" letter-spacing="1.6" fill="#a1a1aa">DUAL DISCIPLINE</text>
+
+      <!-- Card 1: Full-Stack Development -->
+      <rect x="635" y="88" width="340" height="52" rx="10" fill="#121218" stroke="#00f2fe" stroke-opacity="0.35" stroke-width="1"/>
+      <circle cx="655" cy="114" r="5" fill="#00f2fe"/>
+      <text x="672" y="110" font-size="14" font-weight="700" fill="#f4f4f5">Full-Stack Development</text>
+      <text x="672" y="129" font-size="12" fill="#a1a1aa">Web Apps  ·  APIs  ·  Databases</text>
+
+      <!-- Card 2: Game Development -->
+      <rect x="635" y="148" width="340" height="52" rx="10" fill="#121218" stroke="#ff007a" stroke-opacity="0.4" stroke-width="1"/>
+      <circle cx="655" cy="174" r="5" fill="#ff007a"/>
+      <text x="672" y="170" font-size="14" font-weight="700" fill="#f4f4f5">Game Development</text>
+      <text x="672" y="189" font-size="12" fill="#a1a1aa">Gameplay  ·  Systems  ·  Worlds</text>
+
+      <!-- Currently Exploring -->
+      <text x="635" y="226" font-size="11" font-weight="700" letter-spacing="1.6" fill="#a1a1aa">CURRENTLY EXPLORING</text>
+
+      <!-- 2x2 Chip Grid -->
+      <rect x="635" y="238" width="164" height="32" rx="8" fill="#121218" stroke="#27272a" stroke-width="1"/>
+      <text x="717" y="259" text-anchor="middle" font-size="13" font-weight="600" fill="#9fefff">Next.js</text>
+
+      <rect x="811" y="238" width="164" height="32" rx="8" fill="#121218" stroke="#27272a" stroke-width="1"/>
+      <text x="893" y="259" text-anchor="middle" font-size="13" font-weight="600" fill="#9fefff">TypeScript</text>
+
+      <rect x="635" y="276" width="164" height="32" rx="8" fill="#121218" stroke="#27272a" stroke-width="1"/>
+      <text x="717" y="297" text-anchor="middle" font-size="13" font-weight="600" fill="#ff8cc0">Godot Engine</text>
+
+      <rect x="811" y="276" width="164" height="32" rx="8" fill="#121218" stroke="#27272a" stroke-width="1"/>
+      <text x="893" y="297" text-anchor="middle" font-size="13" font-weight="600" fill="#ff8cc0">C#</text>
+
+      <!-- Bottom Status Indicator -->
+      <circle class="statusDot" cx="642" cy="329" r="4" fill="#00f2fe"/>
+      <text x="655" y="333" font-size="12" font-weight="500" fill="#a1a1aa">Always building &amp; learning</text>
+    </g>
+  </g>
+  <!-- Crisp outer border -->
+  <rect x="1" y="1" width="998" height="348" rx="18" fill="none" stroke="#27272a" stroke-width="1.5"/>
+</svg>
+
