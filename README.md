@@ -87,67 +87,94 @@ That same curiosity led me to game development, where programming meets interact
 <sub><code>Flutter</code> · <code>Dart</code> · <code>Expo</code> · <code>Odoo</code> · <code>Swagger UI</code> · <code>Scalar</code> · <code>Docusaurus</code></sub>
 </div>
 
-## Experience & Organization
-
-**Majelis Perwakilan Kelas (MPK) — SMK Negeri 4 Padalarang**  
-Former Secretary General (*Sekretaris Umum*), 2025/2026
-
-- Organizational administration, official correspondence, and documentation
-- Document management and archiving
-- Coordination and collaboration across student body divisions
-- Organizational workflow management and record consistency
-
-This school leadership role strengthened my communication, structured documentation, and team coordination habits.
-
 ## Featured Projects
 
-### [CritiPlay](https://github.com/SaktiArifDwiPutra/CritiPlay)
-**Full-Stack · Game Discovery, Backlog Tracker & Review Platform**
-
-A web application where gamers discover titles, organize their backlog, and write multi-aspect reviews. Built with a React and TypeScript SPA communicating with a Laravel REST API backed by Neon PostgreSQL.
-
-- **Technical Focus:** Token authentication via Laravel Sanctum, Google OAuth via Socialite, IGDB/Twitch API game discovery, personal game libraries, user/public profiles, and Scalar OpenAPI documentation.
-- **Stack:** <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,postgres&theme=dark" alt="React, TypeScript, Vite, Tailwind CSS, Laravel, PostgreSQL" /><br /><sub><code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>Laravel</code> · <code>PostgreSQL (Neon)</code></sub>
-
----
-
-### Negeri Kelabu
-**Game Development · Indonesian-Inspired Life Simulation RPG**
-
-An ongoing game project inspired by everyday Indonesian life, centered around interactive world systems including NPC behavior, time and weather cycles, inventory, and player interactions.
-
-- **Technical Focus:** Gameplay systems, world-state simulation, and interactive mechanics. *(Currently in development)*
-- **Stack:** <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot Engine" /><br /><sub><code>Godot Engine</code></sub>
-
----
-
-### [Website-Pilketos](https://github.com/SaktiArifDwiPutra/Website-Pilketos)
-**Full-Stack · Digital Student Election System**
-
-A web-based election platform built to support digital student council voting with multi-role login (admin, teacher, student), candidate profiles, and an admin dashboard displaying results as charts and tables.
-
-- **Technical Focus:** Multi-role authentication, CRUD workflows, relational database design, and real-time result visualization.
-- **Stack:** <img src="https://skillicons.dev/icons?i=php,js,mysql&theme=dark" alt="PHP, JavaScript, MySQL" /><br /><sub><code>PHP</code> · <code>JavaScript</code> · <code>MySQL</code></sub>
-
----
-
-### [OSIP4](https://github.com/SaktiArifDwiPutra/OSIP4/tree/main)
-**Frontend · School Organization Website**
-
-A responsive website built for OSIP4 (SMK Negeri 4 Padalarang) for a website development competition.
-
-- **Technical Focus:** Component-based UI architecture and responsive frontend layout.
-- **Stack:** <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React, Vite" /><br /><sub><code>React</code> · <code>Vite</code></sub>
-
----
-
-### [DausAnakSoleh](https://github.com/SaktiArifDwiPutra/DausAnakSoleh)
-**Game Development · Educational Islamic Web Game**
-
-An interactive web game designed to make learning prayer (*solat*) and Quran recitation (*mengaji*) engaging for children.
-
-- **Technical Focus:** 2D web game loop, interactive learning stages, and browser-based edutainment UX.
-- **Stack:** <img src="assets/badges/phaser.svg" alt="Phaser.js" /> <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML5, CSS3" /><br /><sub><code>Phaser.js</code> · <code>JavaScript</code> · <code>HTML5</code> · <code>CSS3</code></sub>
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/SaktiArifDwiPutra/CritiPlay">
+        <img src="assets/projects/critiplay.svg" width="100%" alt="CritiPlay — Full-Stack Game Discovery, Backlog Tracker & Review Platform" />
+      </a>
+      <p>
+        A web application where gamers discover titles, organize their backlog, and write multi-aspect reviews. Built with a React and TypeScript SPA communicating with a Laravel REST API backed by Neon PostgreSQL.
+      </p>
+      <p>
+        <b>Focus:</b> Laravel Sanctum token auth, Google OAuth via Socialite, IGDB/Twitch API discovery, personal game libraries, user/public profiles, and Scalar OpenAPI docs.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,postgres&theme=dark" height="30" alt="React, TypeScript, Vite, Tailwind CSS, Laravel, PostgreSQL" /><br />
+        <sub><code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>Laravel</code> · <code>PostgreSQL (Neon)</code></sub>
+      </p>
+      <a href="https://github.com/SaktiArifDwiPutra/CritiPlay">View repository &rarr;</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projects/negeri-kelabu.svg" width="100%" alt="Negeri Kelabu — Indonesian-Inspired Life Simulation RPG" />
+      <p>
+        An ongoing game project inspired by everyday Indonesian life, centered around interactive world systems including NPC behavior, time and weather cycles, inventory, and player interactions.
+      </p>
+      <p>
+        <b>Focus:</b> Gameplay systems, world-state simulation, and interactive mechanics.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=godot&theme=dark" height="30" alt="Godot Engine" /><br />
+        <sub><code>Godot Engine</code></sub>
+      </p>
+      <i>Status: Currently in development</i>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SaktiArifDwiPutra/DausAnakSoleh">
+        <img src="assets/projects/dausanaksoleh.svg" width="100%" alt="DausAnakSoleh — Educational Islamic Web Game" />
+      </a>
+      <p>
+        An interactive web game designed to make learning prayer (<i>solat</i>) and Quran recitation (<i>mengaji</i>) engaging for children.
+      </p>
+      <p>
+        <b>Focus:</b> 2D web game loop, interactive learning stages, and browser-based edutainment UX.
+      </p>
+      <p>
+        <img src="assets/badges/phaser.svg" height="30" alt="Phaser.js" /> <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="30" alt="JavaScript, HTML5, CSS3" /><br />
+        <sub><code>Phaser.js</code> · <code>JavaScript</code> · <code>HTML5</code> · <code>CSS3</code></sub>
+      </p>
+      <a href="https://github.com/SaktiArifDwiPutra/DausAnakSoleh">View repository &rarr;</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SaktiArifDwiPutra/Website-Pilketos">
+        <img src="assets/projects/website-pilketos.svg" width="100%" alt="Website-Pilketos — Digital Student Election System" />
+      </a>
+      <p>
+        A web-based election platform built to support digital student council voting with multi-role login (admin, teacher, student), candidate profiles, and an admin dashboard displaying results as charts and tables.
+      </p>
+      <p>
+        <b>Focus:</b> Multi-role authentication, CRUD workflows, relational database design, and real-time result visualization.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=php,js,mysql&theme=dark" height="30" alt="PHP, JavaScript, MySQL" /><br />
+        <sub><code>PHP</code> · <code>JavaScript</code> · <code>MySQL</code></sub>
+      </p>
+      <a href="https://github.com/SaktiArifDwiPutra/Website-Pilketos">View repository &rarr;</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SaktiArifDwiPutra/OSIP4/tree/main">
+        <img src="assets/projects/osip4.svg" width="100%" alt="OSIP4 — School Organization Website" />
+      </a>
+      <p>
+        A responsive website built for OSIP4 (SMK Negeri 4 Padalarang) for a website development competition.
+      </p>
+      <p>
+        <b>Focus:</b> Component-based UI architecture and responsive frontend layout.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" height="30" alt="React, Vite" /><br />
+        <sub><code>React</code> · <code>Vite</code></sub>
+      </p>
+      <a href="https://github.com/SaktiArifDwiPutra/OSIP4/tree/main">View repository &rarr;</a>
+    </td>
+  </tr>
+</table>
 
 ## Development Workflow
 
