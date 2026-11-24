@@ -42,17 +42,19 @@ That same curiosity led me to game development, where programming meets interact
 <h3>Game Development</h3>
 <p><i>Developing gameplay mechanics, interactive loops, and 2D/3D game systems.</i></p>
 <img src="https://skillicons.dev/icons?i=godot,unity,cs&theme=dark&perline=6" alt="Game Development: Godot, Unity, C#" />
+<img src="assets/badges/phaser.svg" height="48" alt="Phaser.js" />
 <br />
-<img src="assets/badges/phaser.svg" height="32" alt="Phaser.js" />
+<sub><code>Godot</code> · <code>Unity</code> · <code>C#</code> · <code>Phaser.js</code></sub>
 
 <br />
 
 <h3>Database &amp; Infrastructure</h3>
 <p><i>Managing relational data, serverless PostgreSQL, and Linux/container workflows.</i></p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,ubuntu&theme=dark&perline=6" alt="Database and Infrastructure: MySQL, PostgreSQL, Docker, Ubuntu" />
+<img src="assets/badges/neon-postgresql.svg" height="48" alt="Neon PostgreSQL" />
+<img src="assets/badges/wsl.svg" height="48" alt="WSL" />
 <br />
-<img src="assets/badges/neon-postgresql.svg" height="32" alt="Neon PostgreSQL" />
-<img src="assets/badges/wsl.svg" height="32" alt="WSL" />
+<sub><code>MySQL</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>Ubuntu</code> · <code>Neon PostgreSQL</code> · <code>WSL</code></sub>
 
 <br />
 
@@ -65,11 +67,12 @@ That same curiosity led me to game development, where programming meets interact
 <h3>Explored &amp; Project-Specific</h3>
 <p><i>Technologies explored and applied in dedicated mobile, ERP, and API documentation projects.</i></p>
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" />
+<img src="assets/badges/odoo.svg" height="48" alt="Odoo" />
+<img src="assets/badges/swagger-ui.svg" height="48" alt="Swagger UI" />
+<img src="assets/badges/scalar.svg" height="48" alt="Scalar" />
+<img src="assets/badges/docusaurus.svg" height="48" alt="Docusaurus" />
 <br />
-<img src="assets/badges/odoo.svg" height="32" alt="Odoo" />
-<img src="assets/badges/swagger-ui.svg" height="32" alt="Swagger UI" />
-<img src="assets/badges/scalar.svg" height="32" alt="Scalar" />
-<img src="assets/badges/docusaurus.svg" height="32" alt="Docusaurus" />
+<sub><code>Flutter</code> · <code>Odoo</code> · <code>Swagger UI</code> · <code>Scalar</code> · <code>Docusaurus</code></sub>
 
 </div>
 
@@ -93,7 +96,7 @@ This school leadership role strengthened my communication, structured documentat
 A web application where gamers discover titles, organize their backlog, and write multi-aspect reviews. Built with a React and TypeScript SPA communicating with a Laravel REST API backed by Neon PostgreSQL.
 
 - **Technical Focus:** Token authentication via Laravel Sanctum, Google OAuth via Socialite, IGDB/Twitch API game discovery, personal game libraries, user/public profiles, and Scalar OpenAPI documentation.
-- **Stack:** <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,postgres&theme=dark" height="28" alt="React, TypeScript, Vite, Tailwind CSS, Laravel, PostgreSQL" /><br />`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Laravel` · `PostgreSQL (Neon)`
+- **Stack:** <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,postgres&theme=dark" height="28" alt="React, TypeScript, Vite, Tailwind CSS, Laravel, PostgreSQL" />
 
 ---
 
@@ -103,7 +106,7 @@ A web application where gamers discover titles, organize their backlog, and writ
 An ongoing game project inspired by everyday Indonesian life, centered around interactive world systems including NPC behavior, time and weather cycles, inventory, and player interactions.
 
 - **Technical Focus:** Gameplay systems, world-state simulation, and interactive mechanics. *(Currently in development)*
-- **Stack:** <img src="https://skillicons.dev/icons?i=godot&theme=dark" height="28" alt="Godot Engine" /><br />`Godot Engine`
+- **Stack:** <img src="https://skillicons.dev/icons?i=godot&theme=dark" height="28" alt="Godot Engine" />
 
 ---
 
@@ -113,7 +116,7 @@ An ongoing game project inspired by everyday Indonesian life, centered around in
 A web-based election platform built to support digital student council voting with multi-role login (admin, teacher, student), candidate profiles, and an admin dashboard displaying results as charts and tables.
 
 - **Technical Focus:** Multi-role authentication, CRUD workflows, relational database design, and real-time result visualization.
-- **Stack:** <img src="https://skillicons.dev/icons?i=php,js,mysql&theme=dark" height="28" alt="PHP, JavaScript, MySQL" /><br />`PHP` · `JavaScript` · `MySQL`
+- **Stack:** <img src="https://skillicons.dev/icons?i=php,js,mysql&theme=dark" height="28" alt="PHP, JavaScript, MySQL" />
 
 ---
 
@@ -123,7 +126,7 @@ A web-based election platform built to support digital student council voting wi
 A responsive website built for OSIP4 (SMK Negeri 4 Padalarang) for a website development competition.
 
 - **Technical Focus:** Component-based UI architecture and responsive frontend layout.
-- **Stack:** <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" height="28" alt="React, Vite" /><br />`React` · `Vite`
+- **Stack:** <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" height="28" alt="React, Vite" />
 
 ---
 
@@ -133,7 +136,7 @@ A responsive website built for OSIP4 (SMK Negeri 4 Padalarang) for a website dev
 An interactive web game designed to make learning prayer (*solat*) and Quran recitation (*mengaji*) engaging for children.
 
 - **Technical Focus:** 2D web game loop, interactive learning stages, and browser-based edutainment UX.
-- **Stack:** <img src="assets/badges/phaser.svg" height="28" alt="Phaser.js" /> <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="28" alt="JavaScript, HTML5, CSS3" /><br />`Phaser.js` · `JavaScript` · `HTML5` · `CSS3`
+- **Stack:** <img src="assets/badges/phaser.svg" height="28" alt="Phaser.js" /> <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="28" alt="JavaScript, HTML5, CSS3" />
 
 ## Development Workflow
 
