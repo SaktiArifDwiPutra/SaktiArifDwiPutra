@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GDScript">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <rect x="44" y="44" width="168" height="168" rx="34" fill="#478cbf"/>
+  <text x="128" y="152" text-anchor="middle" font-family="'Consolas', 'Courier New', monospace" font-weight="900" font-size="70" fill="#ffffff">GD</text>
+  <circle cx="182" cy="74" r="14" fill="#fcee0a"/>
+</svg>
+

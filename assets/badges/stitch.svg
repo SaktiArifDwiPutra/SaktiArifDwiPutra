@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stitch">
+  <defs>
+    <radialGradient id="sg" cx="0.5" cy="0.85" r="0.6">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#4285F4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#242938" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <rect width="256" height="256" rx="60" fill="url(#sg)"/>
+  <rect x="44" y="88" width="168" height="80" rx="40" fill="#f4f4f5"/>
+  <circle cx="108" cy="128" r="11" fill="#181c28"/>
+  <circle cx="148" cy="128" r="11" fill="#181c28"/>
+</svg>
+
