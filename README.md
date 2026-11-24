@@ -107,7 +107,7 @@ This school leadership role strengthened my communication, structured documentat
 A web application where gamers discover titles, organize their backlog, and write multi-aspect reviews. Built with a React and TypeScript SPA communicating with a Laravel REST API backed by Neon PostgreSQL.
 
 - **Technical Focus:** Token authentication via Laravel Sanctum, Google OAuth via Socialite, IGDB/Twitch API game discovery, personal game libraries, user/public profiles, and Scalar OpenAPI documentation.
-- **Stack:** <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,postgres&theme=dark" alt="React, TypeScript, Vite, Tailwind CSS, Laravel, PostgreSQL" />
+- **Stack:** <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,postgres&theme=dark" alt="React, TypeScript, Vite, Tailwind CSS, Laravel, PostgreSQL" /><br /><sub><code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>Laravel</code> · <code>PostgreSQL (Neon)</code></sub>
 
 ---
 
@@ -117,7 +117,7 @@ A web application where gamers discover titles, organize their backlog, and writ
 An ongoing game project inspired by everyday Indonesian life, centered around interactive world systems including NPC behavior, time and weather cycles, inventory, and player interactions.
 
 - **Technical Focus:** Gameplay systems, world-state simulation, and interactive mechanics. *(Currently in development)*
-- **Stack:** <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot Engine" />
+- **Stack:** <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot Engine" /><br /><sub><code>Godot Engine</code></sub>
 
 ---
 
@@ -127,7 +127,7 @@ An ongoing game project inspired by everyday Indonesian life, centered around in
 A web-based election platform built to support digital student council voting with multi-role login (admin, teacher, student), candidate profiles, and an admin dashboard displaying results as charts and tables.
 
 - **Technical Focus:** Multi-role authentication, CRUD workflows, relational database design, and real-time result visualization.
-- **Stack:** <img src="https://skillicons.dev/icons?i=php,js,mysql&theme=dark" alt="PHP, JavaScript, MySQL" />
+- **Stack:** <img src="https://skillicons.dev/icons?i=php,js,mysql&theme=dark" alt="PHP, JavaScript, MySQL" /><br /><sub><code>PHP</code> · <code>JavaScript</code> · <code>MySQL</code></sub>
 
 ---
 
@@ -137,7 +137,7 @@ A web-based election platform built to support digital student council voting wi
 A responsive website built for OSIP4 (SMK Negeri 4 Padalarang) for a website development competition.
 
 - **Technical Focus:** Component-based UI architecture and responsive frontend layout.
-- **Stack:** <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React, Vite" />
+- **Stack:** <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React, Vite" /><br /><sub><code>React</code> · <code>Vite</code></sub>
 
 ---
 
@@ -147,7 +147,7 @@ A responsive website built for OSIP4 (SMK Negeri 4 Padalarang) for a website dev
 An interactive web game designed to make learning prayer (*solat*) and Quran recitation (*mengaji*) engaging for children.
 
 - **Technical Focus:** 2D web game loop, interactive learning stages, and browser-based edutainment UX.
-- **Stack:** <img src="assets/badges/phaser.svg" alt="Phaser.js" /> <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML5, CSS3" />
+- **Stack:** <img src="assets/badges/phaser.svg" alt="Phaser.js" /> <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML5, CSS3" /><br /><sub><code>Phaser.js</code> · <code>JavaScript</code> · <code>HTML5</code> · <code>CSS3</code></sub>
 
 ## Development Workflow
 
