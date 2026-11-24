@@ -35,7 +35,10 @@ That same curiosity led me to game development, where programming meets interact
 
 <h3>Full-Stack Development</h3>
 <p><i>Building responsive web interfaces, backend services, and REST APIs.</i></p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nuxtjs,vue,vite,bootstrap,tailwind,php,laravel,nodejs,py&theme=dark&perline=8" alt="Full-Stack Development: HTML, CSS, JavaScript, TypeScript, React, Next.js, Nuxt, Vue.js, Vite, Bootstrap, Tailwind CSS, PHP, Laravel, Node.js, Python" /><img src="assets/badges/hono.svg" height="48" alt="Hono.js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nuxtjs,vue,vite,bootstrap,tailwind,php,laravel,nodejs,py&theme=dark&perline=8" alt="Full-Stack Development" align="top" />
+  <img src="assets/badges/hono.svg" height="48" alt="Hono.js" align="top" />
+</p>
 <br />
 <sub><code>HTML</code> · <code>CSS</code> · <code>JS</code> · <code>TS</code> · <code>React</code> · <code>Next.js</code> · <code>Nuxt</code> · <code>Vue.js</code> <br> <code>Vite</code> · <code>Bootstrap</code> · <code>Tailwind</code> · <code>PHP</code> · <code>Laravel</code> · <code>Node.js</code> · <code>Python</code> · <code>Hono.js</code></sub>
 
