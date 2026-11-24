@@ -9,10 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION-SMKN%204%20PADALARANG-00f2fe?style=for-the-badge&labelColor=09090e" alt="Education: SMKN 4 Padalarang" />
-  <img src="https://img.shields.io/badge/LOCATION-WEST%20JAVA%2C%20INDONESIA-4facfe?style=for-the-badge&labelColor=09090e" alt="Location: West Java, Indonesia" />
-  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%26%20GAME%20DEVELOPMENT-7928ca?style=for-the-badge&labelColor=09090e" alt="Focus: Full-Stack and Game Development" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-ff007a?style=for-the-badge&labelColor=09090e" alt="Status: Always Building" />
+  <img src="assets/profile-badges.svg" width="100%" alt="Education: SMKN 4 Padalarang · Location: West Java, Indonesia · Focus: Full-Stack and Game Development · Status: Always Building" />
 </div>
 
 ## About Me
@@ -46,7 +43,7 @@ That same curiosity led me to game development, where programming meets interact
 <p><i>Developing gameplay mechanics, interactive loops, and 2D/3D game systems.</i></p>
 <img src="https://skillicons.dev/icons?i=godot,unity,cs&theme=dark&perline=6" alt="Game Development: Godot, Unity, C#" />
 <br />
-<img src="https://img.shields.io/badge/Phaser.js-09090e?style=for-the-badge&logo=phaser&logoColor=ff007a" alt="Phaser.js" />
+<img src="assets/badges/phaser.svg" height="32" alt="Phaser.js" />
 
 <br />
 
@@ -54,8 +51,8 @@ That same curiosity led me to game development, where programming meets interact
 <p><i>Managing relational data, serverless PostgreSQL, and Linux/container workflows.</i></p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,ubuntu&theme=dark&perline=6" alt="Database and Infrastructure: MySQL, PostgreSQL, Docker, Ubuntu" />
 <br />
-<img src="https://img.shields.io/badge/Neon_PostgreSQL-09090e?style=for-the-badge&logo=postgresql&logoColor=00f2fe" alt="Neon PostgreSQL" />
-<img src="https://img.shields.io/badge/WSL-09090e?style=for-the-badge&logo=linux&logoColor=4facfe" alt="WSL" />
+<img src="assets/badges/neon-postgresql.svg" height="32" alt="Neon PostgreSQL" />
+<img src="assets/badges/wsl.svg" height="32" alt="WSL" />
 
 <br />
 
@@ -69,10 +66,10 @@ That same curiosity led me to game development, where programming meets interact
 <p><i>Technologies explored and applied in dedicated mobile, ERP, and API documentation projects.</i></p>
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" />
 <br />
-<img src="https://img.shields.io/badge/Odoo-09090e?style=for-the-badge&logo=odoo&logoColor=ff007a" alt="Odoo" />
-<img src="https://img.shields.io/badge/Swagger_UI-09090e?style=for-the-badge&logo=swagger&logoColor=00f2fe" alt="Swagger UI" />
-<img src="https://img.shields.io/badge/Scalar-09090e?style=for-the-badge&logo=openapiinitiative&logoColor=4facfe" alt="Scalar" />
-<img src="https://img.shields.io/badge/Docusaurus-09090e?style=for-the-badge&logo=docusaurus&logoColor=00f2fe" alt="Docusaurus" />
+<img src="assets/badges/odoo.svg" height="32" alt="Odoo" />
+<img src="assets/badges/swagger-ui.svg" height="32" alt="Swagger UI" />
+<img src="assets/badges/scalar.svg" height="32" alt="Scalar" />
+<img src="assets/badges/docusaurus.svg" height="32" alt="Docusaurus" />
 
 </div>
 
@@ -96,7 +93,7 @@ This school leadership role strengthened my communication, structured documentat
 A web application where gamers discover titles, organize their backlog, and write multi-aspect reviews. Built with a React and TypeScript SPA communicating with a Laravel REST API backed by Neon PostgreSQL.
 
 - **Technical Focus:** Token authentication via Laravel Sanctum, Google OAuth via Socialite, IGDB/Twitch API game discovery, personal game libraries, user/public profiles, and Scalar OpenAPI documentation.
-- **Stack:** ![React](https://img.shields.io/badge/React-09090e?style=flat-square&logo=react&logoColor=00f2fe) ![TypeScript](https://img.shields.io/badge/TypeScript-09090e?style=flat-square&logo=typescript&logoColor=4facfe) ![Vite](https://img.shields.io/badge/Vite-09090e?style=flat-square&logo=vite&logoColor=ff007a) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-09090e?style=flat-square&logo=tailwindcss&logoColor=00f2fe) ![Laravel](https://img.shields.io/badge/Laravel-09090e?style=flat-square&logo=laravel&logoColor=FF5A4D) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(Neon)-09090e?style=flat-square&logo=postgresql&logoColor=4facfe)
+- **Stack:** <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,postgres&theme=dark" height="28" alt="React, TypeScript, Vite, Tailwind CSS, Laravel, PostgreSQL" /><br />`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Laravel` · `PostgreSQL (Neon)`
 
 ---
 
@@ -106,7 +103,7 @@ A web application where gamers discover titles, organize their backlog, and writ
 An ongoing game project inspired by everyday Indonesian life, centered around interactive world systems including NPC behavior, time and weather cycles, inventory, and player interactions.
 
 - **Technical Focus:** Gameplay systems, world-state simulation, and interactive mechanics. *(Currently in development)*
-- **Stack:** ![Godot Engine](https://img.shields.io/badge/Godot_Engine-09090e?style=flat-square&logo=godotengine&logoColor=ff007a)
+- **Stack:** <img src="https://skillicons.dev/icons?i=godot&theme=dark" height="28" alt="Godot Engine" /><br />`Godot Engine`
 
 ---
 
@@ -116,7 +113,7 @@ An ongoing game project inspired by everyday Indonesian life, centered around in
 A web-based election platform built to support digital student council voting with multi-role login (admin, teacher, student), candidate profiles, and an admin dashboard displaying results as charts and tables.
 
 - **Technical Focus:** Multi-role authentication, CRUD workflows, relational database design, and real-time result visualization.
-- **Stack:** ![PHP](https://img.shields.io/badge/PHP-09090e?style=flat-square&logo=php&logoColor=8892BF) ![JavaScript](https://img.shields.io/badge/JavaScript-09090e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![MySQL](https://img.shields.io/badge/MySQL-09090e?style=flat-square&logo=mysql&logoColor=00f2fe)
+- **Stack:** <img src="https://skillicons.dev/icons?i=php,js,mysql&theme=dark" height="28" alt="PHP, JavaScript, MySQL" /><br />`PHP` · `JavaScript` · `MySQL`
 
 ---
 
@@ -126,7 +123,7 @@ A web-based election platform built to support digital student council voting wi
 A responsive website built for OSIP4 (SMK Negeri 4 Padalarang) for a website development competition.
 
 - **Technical Focus:** Component-based UI architecture and responsive frontend layout.
-- **Stack:** ![React](https://img.shields.io/badge/React-09090e?style=flat-square&logo=react&logoColor=00f2fe) ![Vite](https://img.shields.io/badge/Vite-09090e?style=flat-square&logo=vite&logoColor=ff007a)
+- **Stack:** <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" height="28" alt="React, Vite" /><br />`React` · `Vite`
 
 ---
 
@@ -136,7 +133,7 @@ A responsive website built for OSIP4 (SMK Negeri 4 Padalarang) for a website dev
 An interactive web game designed to make learning prayer (*solat*) and Quran recitation (*mengaji*) engaging for children.
 
 - **Technical Focus:** 2D web game loop, interactive learning stages, and browser-based edutainment UX.
-- **Stack:** ![Phaser.js](https://img.shields.io/badge/Phaser.js-09090e?style=flat-square&logo=phaser&logoColor=ff007a) ![JavaScript](https://img.shields.io/badge/JavaScript-09090e?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-09090e?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-09090e?style=flat-square&logo=css3&logoColor=4facfe)
+- **Stack:** <img src="assets/badges/phaser.svg" height="28" alt="Phaser.js" /> <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="28" alt="JavaScript, HTML5, CSS3" /><br />`Phaser.js` · `JavaScript` · `HTML5` · `CSS3`
 
 ## Development Workflow
 

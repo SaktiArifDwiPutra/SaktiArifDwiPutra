@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 96" width="920" height="96" role="img" aria-labelledby="t d">
+  <title id="t">Profile Badges — Sakti Arif D.S.</title>
+  <desc id="d">Education: SMKN 4 Padalarang. Location: West Java, Indonesia. Focus: Full-Stack and Game Development. Status: Always Building.</desc>
+  <g font-family="'Segoe UI', Inter, system-ui, -apple-system, Arial, sans-serif">
+    <!-- Row 1 Left: Education -->
+    <g transform="translate(4 4)">
+      <rect x="0" y="0" width="448" height="40" rx="10" fill="#09090e" stroke="#27272a" stroke-width="1.2"/>
+      <rect x="0" y="6" width="4" height="28" rx="2" fill="#00f2fe"/>
+      <text x="18" y="24.5" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#a1a1aa">EDUCATION</text>
+      <circle cx="122" cy="20" r="2.2" fill="#00f2fe"/>
+      <text x="136" y="25" font-size="14" font-weight="600" fill="#f4f4f5">SMKN 4 Padalarang</text>
+    </g>
+
+    <!-- Row 1 Right: Location -->
+    <g transform="translate(468 4)">
+      <rect x="0" y="0" width="448" height="40" rx="10" fill="#09090e" stroke="#27272a" stroke-width="1.2"/>
+      <rect x="0" y="6" width="4" height="28" rx="2" fill="#4facfe"/>
+      <text x="18" y="24.5" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#a1a1aa">LOCATION</text>
+      <circle cx="114" cy="20" r="2.2" fill="#4facfe"/>
+      <text x="128" y="25" font-size="14" font-weight="600" fill="#f4f4f5">West Java, Indonesia</text>
+    </g>
+
+    <!-- Row 2 Left: Focus -->
+    <g transform="translate(4 52)">
+      <rect x="0" y="0" width="448" height="40" rx="10" fill="#09090e" stroke="#27272a" stroke-width="1.2"/>
+      <rect x="0" y="6" width="4" height="28" rx="2" fill="#7928ca"/>
+      <text x="18" y="24.5" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#a1a1aa">FOCUS</text>
+      <circle cx="88" cy="20" r="2.2" fill="#7928ca"/>
+      <text x="102" y="25" font-size="14" font-weight="600" fill="#f4f4f5">Full-Stack &amp; Game Development</text>
+    </g>
+
+    <!-- Row 2 Right: Status -->
+    <g transform="translate(468 52)">
+      <rect x="0" y="0" width="448" height="40" rx="10" fill="#09090e" stroke="#27272a" stroke-width="1.2"/>
+      <rect x="0" y="6" width="4" height="28" rx="2" fill="#ff007a"/>
+      <text x="18" y="24.5" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#a1a1aa">STATUS</text>
+      <circle cx="96" cy="20" r="2.2" fill="#ff007a"/>
+      <text x="110" y="25" font-size="14" font-weight="600" fill="#f4f4f5">Always Building</text>
+    </g>
+  </g>
+</svg>
+
