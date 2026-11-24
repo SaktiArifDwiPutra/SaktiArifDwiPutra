@@ -225,14 +225,14 @@
     <text class="cmd-text l1" x="160" y="110">&gt; <tspan class="cmd-highlight">whoami</tspan></text>
     
     <!-- Line 2: Big Bold Name -->
-    <text class="hero-name l2" x="160" y="148">Sakti Arif Dwi Putra</text>
+    <text class="hero-name l2" x="160" y="148">Sakti Arif D.S.</text>
     
     <!-- Line 3: Dual Roles -->
-    <text class="hero-role l3" x="160" y="175">Fullstack Architect <tspan fill="#e4e4e7">x</tspan> Indie Game Dev</text>
-    <line class="underline l3" x1="160" y1="183" x2="420" y2="183" stroke="#ff007a" stroke-width="1.5" stroke-opacity="0.6" />
+    <text class="hero-role l3" x="160" y="175">Full-Stack Developer <tspan fill="#e4e4e7">x</tspan> Game Developer</text>
+    <line class="underline l3" x1="160" y1="183" x2="480" y2="183" stroke="#ff007a" stroke-width="1.5" stroke-opacity="0.6" />
     
     <!-- Line 4 & 5: Creative Description -->
-    <text class="cmd-comment l4" x="160" y="205"># Transforming coffee &amp; logic into digital universes.</text>
+    <text class="cmd-comment l4" x="160" y="205"># From systems and logic to worlds and experiences.</text>
     <text class="cmd-text l5" x="160" y="230">&gt; Focus: <tspan fill="#ffe259">Clean code, scalable systems, playful games</tspan><tspan class="cursor" fill="#00f2fe"> ▋</tspan></text>
   </g>
 

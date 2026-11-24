@@ -1,264 +1,236 @@
-<head><meta name="google-site-verification" content="-0lpr_qs-EwcVERjlEmBvdT9wwuMewPYORlsos95kL0" /></head>
-
-<img src="header.svg" width="100%">
-
----
-
-## 💡 About Me
-
-Hi! I'm a student in **Software and Game Development (PPLG)** with a strong interest in both **Full-Stack Web Development** and **Game Development**. I enjoy turning ideas into real, interactive products, whether it's a web application, a backend system, or a game.
-
-My journey started with web development, where I explored frontend and backend technologies, databases, APIs, and modern development workflows. Along the way, I also discovered my interest in game development because it combines programming, creativity, systems, interaction, and storytelling.
-
-Currently, I'm strengthening my foundation as a full-stack developer while diving deeper into game development. My goal is to keep exploring both worlds and create digital experiences that are useful, interactive, and memorable.
-
----
-
-## 🎓 Education
-
-**SMK Negeri 4 Padalarang**  
-Software and Game Development (**PPLG / RPL**)  
-2024 — Present
-
----
-
-## 🛠️ Hard Skills & Tech Stack
-
 <div align="center">
-
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="/Test/html2.gif" width="60" alt="HTML"/><br>
-            HTML
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>
-            CSS
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>
-            JavaScript
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br>
-            TypeScript
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="52" height="52" alt="C#"/><br>
-            C#
-        </td>
-        <td align="center" width="96">
-            <img src="/Test/figma2.gif" width="56" alt="Figma"/><br>
-            Figma
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br>
-            Next.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br>
-            Node.js
-        </td>
-    </tr>   
-    <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/><br>
-            PHP
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"/><br>
-            Laravel
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" height="52" alt="MySQL"/><br>
-            MySQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><br>
-            Unity
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot"/><br>
-            Godot
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>
-            Git
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="52" height="52" alt="GitHub"/><br>
-            GitHub
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br>
-            Bootstrap
-        </td>
-    </tr>
-</table>
-
+  <img src="header.svg" width="100%" alt="Sakti Arif D.S. — Full-Stack Developer and Game Developer" />
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/SaktiArifDwiPutra">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1100&color=00f2fe&center=true&vCenter=true&width=860&height=50&lines=Hello%2C+I'm+Sakti+Arif+D.S.;Full-Stack+Developer+%7C+Game+Developer;Building+Web+Applications+and+Interactive+Experiences;Exploring+Game+Systems%2C+Backend+Architecture+%26+Creative+Technology;Turning+Ideas+Into+Real+Products" alt="Animated introduction: Full-Stack Developer and Game Developer" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/EDUCATION-SMKN%204%20PADALARANG-00f2fe?style=for-the-badge&labelColor=09090e" alt="Education: SMKN 4 Padalarang" />
+  <img src="https://img.shields.io/badge/LOCATION-WEST%20JAVA%2C%20INDONESIA-4facfe?style=for-the-badge&labelColor=09090e" alt="Location: West Java, Indonesia" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%26%20GAME%20DEVELOPMENT-7928ca?style=for-the-badge&labelColor=09090e" alt="Focus: Full-Stack and Game Development" />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-ff007a?style=for-the-badge&labelColor=09090e" alt="Status: Always building" />
+</div>
+
+## About Me
+
+I'm a student of **Software and Game Development (PPLG / RPL)** at SMK Negeri 4 Padalarang. I started with web development, working through frontend interfaces, backend logic, databases, and APIs, and gradually got more interested in how whole applications are put together.
+
+Game development grew out of the same curiosity. It combines programming with interaction, systems, and storytelling, and it keeps me building things people can actually play and use.
+
+My goal is to become a versatile developer who can ship both functional software products and engaging interactive experiences.
+
+```ts
+const sakti = {
+  name: "Sakti Arif D.S.",
+  location: "West Java, Indonesia",
+  education: "SMK Negeri 4 Padalarang · Software and Game Development (2024–2027)",
+  roles: ["Full-Stack Developer", "Game Developer"],
+  currentlyExploring: ["Next.js", "TypeScript", "Godot Engine", "C#"],
+  philosophy: "From systems and logic to worlds and experiences.",
+};
+```
+
+## Developer Focus
+
+<div align="center">
+  <img src="assets/focus-fullstack.svg" width="410" alt="Full-Stack Development: frontend, backend, REST APIs, databases, responsive web applications, application architecture" />
+  <img src="assets/focus-game.svg" width="410" alt="Game Development: gameplay programming, game systems, interactive mechanics, game logic, UI/UX for games, creative game experiences" />
+</div>
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="190"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap&theme=dark&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark&perline=7" alt="PHP, Laravel, Node.js" /></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=7" alt="MySQL, PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td><b>Game Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=godot,unity,cs&theme=dark&perline=7" alt="Godot, Unity, C#" /><br />
+      <img src="https://img.shields.io/badge/Phaser.js-09090e?style=for-the-badge&logo=phaser&logoColor=00f2fe" alt="Phaser.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools &amp; Workflow</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark&perline=7" alt="Git, GitHub, VS Code, Figma, Docker" /></td>
+  </tr>
+  <tr>
+    <td><b>Additional</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter&theme=dark&perline=7" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Odoo-09090e?style=for-the-badge&logo=odoo&logoColor=ff007a" alt="Odoo" />
+    </td>
+  </tr>
+</table>
+
+## Experience & Organization
 
-## 🤝 Soft Skills
+**Majelis Perwakilan Kelas (MPK) — SMK Negeri 4 Padalarang**  
+Former Secretary General (*Sekretaris Umum*), 2025/2026
 
-- 🧠 Problem Solving
-- 🤝 Teamwork & Collaboration
-- 🗣️ Communication
-- 📚 Adaptability & Continuous Learning
-- ⏳ Time Management
-- 💡 Creative Thinking
-- 📝 Organization & Administration
+- Organizational administration, official correspondence, and documentation
+- Document management and archiving
+- Coordination and collaboration across the organization
+- Managing organizational workflow and keeping records consistent
+
+This was a school leadership role. It trained skills I also use when building software: clear communication, structure, and accountability.
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+
+### [CritiPlay](https://github.com/SaktiArifDwiPutra/CritiPlay)
+**Full-Stack · Game discovery, backlog tracking, and reviews for gaming communities**
+
+A web platform where players discover games, track their library, and write multi-aspect reviews. The React and TypeScript frontend talks to a Laravel REST API backed by PostgreSQL (Neon).
+
+- Token-based authentication with Laravel Sanctum and Google login through Socialite
+- Personal game library with status tracking, user profiles, and public profiles
+- Game discovery through the IGDB (Twitch) API
+- Reviews, community discussions, and a follower system
 
----
+![React](https://img.shields.io/badge/React-09090e?style=flat-square&logo=react&logoColor=00f2fe)
+![TypeScript](https://img.shields.io/badge/TypeScript-09090e?style=flat-square&logo=typescript&logoColor=4facfe)
+![Vite](https://img.shields.io/badge/Vite-09090e?style=flat-square&logo=vite&logoColor=ff007a)
+![Laravel](https://img.shields.io/badge/Laravel-09090e?style=flat-square&logo=laravel&logoColor=FF5A4D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09090e?style=flat-square&logo=postgresql&logoColor=4facfe)
 
-## 💼 Experience & Organization
+[View repository →](https://github.com/SaktiArifDwiPutra/CritiPlay)
 
-### 🏛️ Majelis Perwakilan Kelas (MPK)
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-**Wakil Sekretaris / Sekretaris Umum**
+### Negeri Kelabu
+**Game · Life simulation RPG**
 
-Actively involved in school organization activities, especially in administration, correspondence, documentation, and organizational management. This experience has helped me improve my communication, teamwork, responsibility, and organizational skills.
+An Indonesian-inspired life simulation RPG built around everyday life. It focuses on interactive systems such as NPC behavior, time, weather, inventory, and player interactions.
 
-### 💻 Software Development Projects
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-09090e?style=flat-square&logo=godotengine&logoColor=ff007a)
 
-Worked on various school and personal projects involving web development, databases, interactive applications, and game development. Most projects are built as a way to explore new technologies while improving my practical development skills.
+Status: in development
 
----
+</td>
+    <td width="50%" valign="top">
 
-## 🚀 Featured Projects
+### [DausAnakSoleh](https://github.com/SaktiArifDwiPutra/DausAnakSoleh)
+**Game · Educational Islamic web game**
 
-### 🏫 OSIP4 — School Organization Website
+An educational web game that makes learning prayer and Quran recitation more interactive and engaging for children.
 
-A modern web application developed for a website development competition with the theme of school organizations. Built as a digital platform to support and represent OSIP4 (Organisasi Siswa Intra Sekolah SMKN 4 Padalarang).
+![Phaser.js](https://img.shields.io/badge/Phaser.js-09090e?style=flat-square&logo=phaser&logoColor=ff007a)
+![JavaScript](https://img.shields.io/badge/JavaScript-09090e?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-09090e?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-09090e?style=flat-square&logo=css3&logoColor=4facfe)
 
-**Tech:** React, Vite
+[View repository →](https://github.com/SaktiArifDwiPutra/DausAnakSoleh)
 
-**Focus:** Frontend Development, Responsive Design, User Interface
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-🔗 [View Repository](https://github.com/SaktiArifDwiPutra/OSIP4/tree/main)
+### [Website-Pilketos](https://github.com/SaktiArifDwiPutra/Website-Pilketos)
+**Full-Stack · Digital student election system**
 
----
+A web-based student election system for school election processes. It has multi-role login for admins, teachers, and students, an interactive voting page, and an admin dashboard that shows results as charts and tables.
 
-### 🗳️ Website-Pilketos — Digital Student Election System
+![PHP](https://img.shields.io/badge/PHP-09090e?style=flat-square&logo=php&logoColor=8892BF)
+![JavaScript](https://img.shields.io/badge/JavaScript-09090e?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-09090e?style=flat-square&logo=mysql&logoColor=00f2fe)
 
-A web-based application designed to support the student council election process digitally.
+[View repository →](https://github.com/SaktiArifDwiPutra/Website-Pilketos)
 
-**Tech:** PHP, JS, MySql
+</td>
+    <td width="50%" valign="top">
 
-**Focus:** Web Development, Database, User Interaction
+### [OSIP4](https://github.com/SaktiArifDwiPutra/OSIP4/tree/main)
+**Frontend · School organization website**
 
-🔗 [View Repository](https://github.com/SaktiArifDwiPutra/Website-Pilketos)
+A responsive website for OSIP4, the student organization of SMKN 4 Padalarang, built for a website development competition.
 
----
+![React](https://img.shields.io/badge/React-09090e?style=flat-square&logo=react&logoColor=00f2fe)
+![Vite](https://img.shields.io/badge/Vite-09090e?style=flat-square&logo=vite&logoColor=ff007a)
 
-### 🌟 DausAnakSoleh — Educational Islamic Game
+[View repository →](https://github.com/SaktiArifDwiPutra/OSIP4/tree/main)
 
-Educational web-based game designed to make learning how to pray (solat) and recite the Quran (mengaji) highly entertaining and engaging for players.
+</td>
+  </tr>
+</table>
 
-**Tech:** Phaser.js, JavaScript, HTML5, CSS3
+## Development Workflow
 
-**Focus:** Game Development, Edutainment, Interactive Learning
+A general outline of how I approach building things. Individual projects don't always follow every step.
 
-🔗 [View Repository](https://github.com/SaktiArifDwiPutra/DausAnakSoleh)
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#09090e','primaryTextColor':'#f4f4f5','primaryBorderColor':'#00f2fe','lineColor':'#7928ca','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
+flowchart LR
+    A["Idea &<br/>Planning"] --> B["UI/UX<br/>Design"]
+    B --> C["Frontend &<br/>Gameplay<br/>Development"]
+    C --> D["Backend &<br/>Database<br/>Integration"]
+    D --> E["Testing &<br/>Debugging"]
+    E --> F["Deployment /<br/>Release"]
+    classDef core fill:#09090e,stroke:#00f2fe,color:#f4f4f5,stroke-width:1.5px;
+    classDef end1 fill:#0a0510,stroke:#ff007a,color:#f4f4f5,stroke-width:1.5px;
+    class A,B,C,D,E core;
+    class F end1;
+```
 
----
+## GitHub Analytics
 
-### 🎮 Negeri Kelabu
+<div align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaktiArifDwiPutra&show_icons=true&hide_border=false&bg_color=09090e&border_color=27272a&title_color=00f2fe&text_color=d4d4d8&icon_color=ff007a" alt="GitHub stats for SaktiArifDwiPutra" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=SaktiArifDwiPutra&layout=compact&langs_count=6&hide_border=false&bg_color=09090e&border_color=27272a&title_color=00f2fe&text_color=d4d4d8" alt="Most used languages on GitHub" />
+</div>
 
-An ongoing life simulation RPG project inspired by everyday life in Indonesia. The project focuses on interactive systems such as character movement, NPC behavior, time, weather, inventory, and player interaction.
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SaktiArifDwiPutra&hide_border=false&background=09090e&border=27272a&ring=00f2fe&fire=ff007a&currStreakNum=FFFFFF&currStreakLabel=00f2fe&sideNums=FFFFFF&sideLabels=a1a1aa&dates=71717a" alt="GitHub contribution streak" />
+</div>
 
-**Tech:** Godot Engine
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaktiArifDwiPutra&bg_color=09090e&color=00f2fe&line=7928ca&point=FFFFFF&area=true&area_color=7928ca&hide_border=true&title_color=00f2fe" width="100%" alt="GitHub contribution activity graph" />
+</div>
 
-🚧 Currently in development
+## Contribution Snake
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaktiArifDwiPutra/SaktiArifDwiPutra/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaktiArifDwiPutra/SaktiArifDwiPutra/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SaktiArifDwiPutra/SaktiArifDwiPutra/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
-## 🏆 Certificates & Achievements
+## Connect With Me
 
-### 📜 Training & Certification
+<div align="center">
+  <a href="https://github.com/SaktiArifDwiPutra"><img src="assets/social/github.svg" height="48" alt="GitHub: SaktiArifDwiPutra" /></a>
+  <a href="https://www.instagram.com/saktehhhhhhh/"><img src="assets/social/instagram.svg" height="48" alt="Instagram: saktehhhhhhh" /></a>
+  <a href="mailto:saktiarif830@gmail.com"><img src="assets/social/email.svg" height="48" alt="Email: saktiarif830@gmail.com" /></a>
+</div>
 
-- Oracle Academy — Database Learning Program
-- AWS Academy / AWS Foundation AI Training
-- Dicoding Development / Learning Activities
+<br />
 
-> 📌 More certificates and achievements will be added as my learning journey continues.
-
----
-
-## 🎯 Current Focus
-
-Right now, I'm developing myself in two areas that I want to grow together.
-
-### 🌐 Full-Stack Development
-
-- Improving backend architecture and API development
-- Learning and exploring **Next.js** and **TypeScript**
-- Building responsive and modern web applications
-- Improving database and application architecture
-
-### 🎮 Game Development
-
-- Exploring gameplay programming and game systems
-- Learning **Godot Engine** and C#
-- Developing interactive mechanics and game features
-- Exploring the combination of programming, art, design, and storytelling
-
----
-
-## 🌈 Career Goal
-
-My goal is to become a **versatile software developer** with a strong foundation in **Full-Stack Development** while continuing to specialize and grow in **Game Development**.
-
-I don't want to limit myself to building only one type of digital product. Whether it's a web application, backend system, interactive tool, or game, I want to create experiences that are functional, meaningful, and enjoyable to use.
-
-For me, technology is not just about writing code.
-
-It's about turning an idea into something people can actually experience.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaktiArifDwiPutra&show_icons=true&theme=tokyonight&hide_border=false" height="160px"/>
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=SaktiArifDwiPutra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"/>
-</p>
-
----
-
-## 📫 Reach Me
-
-<p align="center">
-
-<a href="mailto:saktiarif830@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.instagram.com/saktehhhhhhh?igsh=YzV3NHJzc2d1OWFh" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Contact%20Me-blue?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://github.com/SaktiArifDwiPutra" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-SaktiArifDwiPutra-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Web+Apps+and+Interactive+Experiences;Diving+Deeper+Into+Game+Development;Always+Learning%2C+Always+Building" alt="Typing Animation"/>
-</p>
-
-<p align="center">
+<div align="center">
   <i>"From systems and logic to worlds and experiences."</i>
-</p>
+</div>
 
----
+<br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated divider"/>
-</p>
+<img src="assets/footer.svg" width="100%" alt="Sakti Arif D.S. — Full-Stack Developer and Game Developer" />
